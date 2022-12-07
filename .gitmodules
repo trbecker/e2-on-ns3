@@ -1,0 +1,18 @@
+[submodule "3rdp/ns3"]
+	path = 3rdp/ns3
+	url = https://gitlab.com/nsnam/ns-3-dev.git
+[submodule "3rdp/prometheus-cpp"]
+	path = 3rdp/prometheus-cpp
+	url = https://github.com/jupp0r/prometheus-cpp.git
+[submodule "3rdp/e2sim"]
+	path = 3rdp/e2sim
+	url = https://github.com/LABORA-INF-UFG/e2sim
+[submodule "3rdp/sim-ns3-o-ran-e2"]
+	path = 3rdp/sim-ns3-o-ran-e2
+	url = https://github.com/trbecker/sim-ns3-o-ran-e2
+[submodule "3rdp/oran-e2sim"]
+	path = 3rdp/oran-e2sim
+	url = https://github.com/wineslab/ns-o-ran-e2-sim
+[submodule "3rdp/ns-3-mmwave-oran"]
+	path = 3rdp/ns-3-mmwave-oran
+	url = https://github.com/wineslab/ns-o-ran-ns3-mmwave
